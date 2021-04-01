@@ -17,6 +17,9 @@ Register by signing up with your email and a password.  You can follow other use
 ### A Note on Followers
 This app works along the lines of Twitter rather than say Facebook.  If you are following someone that does NOT mean they are automatically following you.  Following/followers are one directional.  You of course can follow someone who is following you but each registered user must submit the other's email into the appropriate field to follow the user they want to.
 
+###Database Schema
+![Database Design](https://ibb.co/XZ7hysf)
+
 ## Local Setup
 
 1. Fork and Clone the repo
